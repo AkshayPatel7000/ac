@@ -10,14 +10,14 @@ function App() {
         display: "flex",
         flexDirection: "column",
         justifyContent: "space-between",
-        height: "100vh",
+        height: "100svh",
         // alignItems:"center"
       }}
     >
       <h1 style={{ textAlign: "center", color: "#fff" }}>Audio Cleaner</h1>
 
       <UploadUI />
-      <p style={{ textAlign: "center", color: "#fff" }}>Made with ❤️ by 🍊</p>
+      <p style={{ textAlign: "center", color: "#fff" }}>MADE WITH ❤️ BY 🍊</p>
     </div>
   );
 }
